@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+}
+
+:root{
+    --global-cinzel-font: 'Cinzel', serif;
+    --global-poppins-font: 'Poppins' , sans-serif;
+    --global-btn-color:#9F78FF;
+    --global-text-color:#140C40;
+    --global-text-grey-color:#aaa;
+    --global-footer-background-color:#1D2547;
+    --global-white-color:#fff;
+    --global-black-color:#000;
+    --global-transition:all 0.3s linear 0s;
+
+
+}
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
